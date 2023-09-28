@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "noEmit" : false,
+    "skipLibCheck": true,
+    "module": "node",
+    "moduleResolution": "bundler",
+    "allowSyntheticDefaultImports": true
+  },
+  "include": [
+    "vite.config.ts"
+  ]
+}
